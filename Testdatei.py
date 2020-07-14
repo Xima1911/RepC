@@ -13,3 +13,6 @@ print ("a = 10 + %d"%n,": ", function(n))
 
 n = 3
 print ("a = 10 + %d"%n,": ", function(n))
+
+n = 4
+print ("a = 10 + %d"%n,": ", function(n))
